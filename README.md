@@ -1,6 +1,6 @@
 Natural language processing
 
-Libraries used is transformers 
+NLP framework used here in this project is transformers 
 
 Packages used under transformer module are PyYAML , hugging face , tokenizers and sacremoses . 
 

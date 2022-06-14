@@ -1,6 +1,8 @@
 # Natural language processing
 
-NLP framework used here in this project is transformers 
+## Project Specifications
+
+- Tranformers is used in this project as a Natural Language Processing framework.
 
 Packages used under transformer module are PyYAML , hugging face , tokenizers and sacremoses . 
 

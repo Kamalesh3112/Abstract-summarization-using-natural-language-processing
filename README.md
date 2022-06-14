@@ -4,9 +4,9 @@
 
 - Tranformers is used in this project as a Natural Language Processing framework.
 
-Packages used under transformer module are PyYAML , hugging face , tokenizers and sacremoses . 
+- Packages used under transformer module are PyYAML , hugging face , tokenizers and sacremoses . 
 
-Functions used are pipelines and os.
+- Functions used are pipelines and os.
 
-Technoology used is natural language processing.
+- Technoology used is natural language processing and Data Science
 
